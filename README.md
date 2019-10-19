@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://www.frootlab.org/images/fig/aughra.svg" width=350px>
+  <figure>
+    <img src="https://www.frootlab.org/images/fig/vivid-root.svg" width=350px
+      alt="Central hosting of standardized algorithm types, specifications and
+      evaluation metrices by Vivid Root">
+  </figure>
 </div>
 
 Vivid Root
@@ -11,7 +15,7 @@ Vivid Root
 
 *Vivid Root* (alias Aughra) is a planned directory service for the
 [Vivid Code](https://www.frootlab.org/projects/vivid.html) framework. Vivid Root
-is responsible to host and deploy information about algorithm categories and
+is responsible to host and deploy standards for algorithm types, interfaces and
 evaluation metrices to [Vivid Stores](https://www.frootlab.org/projects/vivid/store.html).
 Thereupon Vivid Root provides information about public Vivid Stores, to allow an
 automatic configuration of [Vivid Nodes](https://www.frootlab.org/projects/vivid/node.html).
